@@ -19,7 +19,7 @@ RDP EAP library on <a href="http://pypi.org/project/refinitiv-dataplatform/" 
 
 <a href="https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-apis" target="_blank"> Refinitiv Data Platform APIs</a> - our existing REST-based interface to the cloud Platform.
 
-<a href="community.developers.refinitiv.com/spaces/321/index.html/" target="_blank">Q&A Forum</a> for the Refinitiv Data Platform Library 
+<a href="https://community.developers.refinitiv.com/spaces/321/index.html/" target="_blank">Q&A Forum</a> for the Refinitiv Data Platform Library 
 
 **Disclaimer**  
 As this article is based on Beta versions, the method signatures, data formats etc are subject to change.
