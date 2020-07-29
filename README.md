@@ -1,16 +1,17 @@
-# Instrument Pricing Analytics - Volatility Surfaces
+﻿# Instrument Pricing Analytics - Volatility Surfaces
 
 In one of my <a href="https://developers.refinitiv.com/article/discover-our-refinitiv-data-platform-library-part-2" target="_blank">earlier articles</a> on our new Refinitiv Data Platform Library, I briefly covered our Instrument Pricing Analytics (IPA) data content.
 
 As it was meant to be an overview of the RDP Library, I only covered a fraction of the currently available IPA content. I also only highlighted a subset of the types of output that Samuel Schwam  (Director, Enterprise Pricing Analytics), demoed during the <a href="https://developers.refinitiv.com/pages/london-developer-day-agenda" target="_blank">London Developer Day event</a>. 
 
-In this Jupyter Notebook I would like to cover one of these content types - the Volatility Surface offering - in more detail.
+In the **Volatility Surfaces.ipynb** Notebook I would like to cover one of these content types - the Volatility Surface offering - in more detail.
 
 # July 2020 Webinar - Quickly Build Zero Curves and Volatility Surfaces
-**Please note that the source code for the examples used in the Webinar will be added here - Please check back soon.**
+The specific Volatility Surfaces and Zero Coupon Curve examples used in the Webinar are provided in the two files:
+* Vol Surfaces Webinar.ipynb
+* ZC Curves Webinar.ipynb  
 
-  
-    
+You will need to download the **credentials.ipynb** and **plotting_helper.ipynb** files as well.
       
  
 #### Acknowledgements
