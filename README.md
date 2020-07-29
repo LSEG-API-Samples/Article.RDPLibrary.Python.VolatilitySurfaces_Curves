@@ -5,6 +5,13 @@ In one of my <a href="https://developers.refinitiv.com/article/discover-our-refi
 As it was meant to be an overview of the RDP Library, I only covered a fraction of the currently available IPA content. I also only highlighted a subset of the types of output that Samuel Schwam  (Director, Enterprise Pricing Analytics), demoed during the <a href="https://developers.refinitiv.com/pages/london-developer-day-agenda" target="_blank">London Developer Day event</a>. 
 
 In this Jupyter Notebook I would like to cover one of these content types - the Volatility Surface offering - in more detail.
+
+# July 2020 Webinar - Quickly Build Zero Curves and Volatility Surfaces
+**Please note that the source code for the examples used in the Webinar will be added here - Please check back soon.**
+
+  
+    
+      
  
 #### Acknowledgements
 Although I modified the code for the plots in this article (to improve their look and format), the starting point was Samuel Schwalm's (Director, Enterprise Pricing Analytics) Surfaces and Curves notebook - for which I thank him.
