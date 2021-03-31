@@ -9,8 +9,9 @@ In the **Volatility Surfaces.ipynb** Notebook I would like to cover one of these
 # July 2020 Webinar - Quickly Build Zero Curves and Volatility Surfaces
 The specific Volatility Surfaces and Zero Coupon Curve examples used in the Webinar are provided in the two files:
 * Vol Surfaces Webinar.ipynb
-* ZC Curves Webinar.ipynb  
-Link to On-Demand Recording of the Webinar https://solutions.refinitiv.com/LP=13183
+* ZC Curves Webinar.ipynb   
+
+**Link to On-Demand Recording of the Webinar https://solutions.refinitiv.com/LP=13183**
 
 You will need to download the **credentials.ipynb** and **plotting_helper.ipynb** files as well.
       
