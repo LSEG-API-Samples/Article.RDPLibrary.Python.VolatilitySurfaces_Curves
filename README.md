@@ -1,35 +1,11 @@
 ﻿# Instrument Pricing Analytics - Volatility Surfaces
 
-In one of my <a href="https://developers.refinitiv.com/article/discover-our-refinitiv-data-platform-library-part-2" target="_blank">earlier articles</a> on our new Refinitiv Data Platform Library, I briefly covered our Instrument Pricing Analytics (IPA) data content.
+The [LSEG Data Library for Python](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python) offers user-friendly interfaces that provide developers with consistent access to the extensive financial data and services available on the LSEG Data Platform. The API is designed to deliver uniform access across multiple channels, catering to both professional developers and financial coders. Users can retrieve content from their desktop environment, via deployed streaming services, or directly through cloud-based solutions.
 
-As it was meant to be an overview of the RDP Library, I only covered a fraction of the currently available IPA content. I also only highlighted a subset of the types of output that Samuel Schwam  (Director, Enterprise Pricing Analytics), demoed during the <a href="https://developers.refinitiv.com/pages/london-developer-day-agenda" target="_blank">London Developer Day event</a>. 
+In this article I would like to cover one of these content types - the Volatility Surface offering - in more detail.
 
-In the **Volatility Surfaces.ipynb** Notebook I would like to cover one of these content types - the Volatility Surface offering - in more detail.
+Volatility Surfaces, like other pricing data (ZC Curves, Inflation Curves), are used to model risk factors and can be used to power risk management or valuation systems. The Volatility Surface can also be analysed across Tenors or Strikes (as per the examples below) to get a sense of how the risk is distributed along these axis.
 
-# July 2020 Webinar - Quickly Build Zero Curves and Volatility Surfaces
-The specific Volatility Surfaces and Zero Coupon Curve examples used in the Webinar are provided in the two files:
-* Vol Surfaces Webinar.ipynb
-* ZC Curves Webinar.ipynb   
+I think the best way to highlight this content is via some code and some colourful graphs - so let me dive straight into the code....
 
-**Link to On-Demand Recording of the Webinar https://solutions.refinitiv.com/LP=13183**
-
-You will need to download the **credentials.ipynb** and **plotting_helper.ipynb** files as well.
-      
- 
-#### Acknowledgements
-Although I modified the code for the plots in this article (to improve their look and format), the starting point was Samuel Schwalm's (Director, Enterprise Pricing Analytics) Surfaces and Curves notebook - for which I thank him.
-
-
-### References
-<a href="https://developers.refinitiv.com/article/discover-our-refinitiv-data-platform-library-part-1" target="_blank">Discover our new Refinitiv Data Platform Library</a> - Part 1 of RDP intro article
-
-<a href="http://api.refinitiv.com/" target="_blank">API Playground</a> - Interactive Documentation for Refinitiv Data Platform APIs.
-
-RDP EAP library on <a href="http://pypi.org/project/refinitiv-dataplatform/" target="_blank">PyPi</a> - install by executing 'pip install refinitiv-dataplatform' - in your Python environment
-
-<a href="https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-apis" target="_blank"> Refinitiv Data Platform APIs</a> - our existing REST-based interface to the cloud Platform.
-
-<a href="https://community.developers.refinitiv.com/spaces/321/index.html" target="_blank">Q&A Forum</a> for the Refinitiv Data Platform Library 
-
-**Disclaimer**  
-As this article is based on Beta versions, the method signatures, data formats etc are subject to change.
+For the full article, please refer to the [Instrument Pricing Analytics - Volatility Surfaces and Curves](https://developers.lseg.com/en/article-catalog/article/instrument-pricing-analytics-volatility-surfaces-and-curves) article on the [LSEG Devloper Community](https://developers.lseg.com/en).
